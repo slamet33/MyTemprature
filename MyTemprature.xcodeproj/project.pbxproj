@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5079A595237AAD1A00CF68A9 /* CelciusObjFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5079A594237AAD1A00CF68A9 /* CelciusObjFile.swift */; };
 		887F479B237AAB680059433E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887F479A237AAB680059433E /* AppDelegate.swift */; };
 		887F479D237AAB680059433E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887F479C237AAB680059433E /* SceneDelegate.swift */; };
 		887F479F237AAB680059433E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887F479E237AAB680059433E /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5079A594237AAD1A00CF68A9 /* CelciusObjFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelciusObjFile.swift; sourceTree = "<group>"; };
 		887F4797237AAB680059433E /* MyTemprature.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTemprature.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		887F479A237AAB680059433E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		887F479C237AAB680059433E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				887F47A3237AAB690059433E /* Assets.xcassets */,
 				887F47A5237AAB690059433E /* LaunchScreen.storyboard */,
 				887F47A8237AAB690059433E /* Info.plist */,
+				5079A594237AAD1A00CF68A9 /* CelciusObjFile.swift */,
 			);
 			path = MyTemprature;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				887F479F237AAB680059433E /* ViewController.swift in Sources */,
 				887F479B237AAB680059433E /* AppDelegate.swift in Sources */,
+				5079A595237AAD1A00CF68A9 /* CelciusObjFile.swift in Sources */,
 				887F479D237AAB680059433E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
