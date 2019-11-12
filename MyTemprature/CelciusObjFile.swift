@@ -9,6 +9,7 @@
 import UIKit
 
 class Celcius {
+    // ini temp
     var temperature: Double
     
     // initialize temperature for celcius
