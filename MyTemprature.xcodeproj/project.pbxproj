@@ -285,7 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9RKKB6DTX4;
+				DEVELOPMENT_TEAM = MTU6Z4VFLV;
 				INFOPLIST_FILE = MyTemprature/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -303,7 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9RKKB6DTX4;
+				DEVELOPMENT_TEAM = MTU6Z4VFLV;
 				INFOPLIST_FILE = MyTemprature/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
